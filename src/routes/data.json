@@ -1,0 +1,12 @@
+{
+	"panes": [
+		{"id": "pane-1", "title": "Pane 1", "children": [
+			{"id": "card-1", "title": "Card 1"},
+			{"id": "card-2", "title": "Card 2"},
+			{"id": "card-3", "title": "Card 3"}
+		]},
+		{"id": "pane-2", "title": "Pane 2", "children": []},
+		{"id": "pane-3", "title": "Pane 3", "children": []},
+		{"id": "pane-4", "title": "Pane 4", "children": []}
+	]
+}
